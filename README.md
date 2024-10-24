@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 **I'm currently working on:**  <br>Development of an OpenSource LLM Model with RAG implementation and Web Development Projects.<br>
-👯 **I'm looking to collaborate on:**  <br>Full-stack Applications, ML/AI Projects, and Innovative Hardware Solutions.<br>
-🌱 **I'm currently learning:**  <br>React.js, React Native, and Fine-tuning LLM Models (specifically Meta llama 3.1).<br>
-💬 **Ask me about:**  <br>Web Development, Flutter, ML/LLM Models, Hardware Projects, and Cloud Computing.<br>
+🔭 **I'm currently working on:**  <br>Development of an OpenSource LLM Model with RAG implementation and Web Development Projects.<br><br>
+👯 **I'm looking to collaborate on:**  <br>Full-stack Applications, ML/AI Projects, and Innovative Hardware Solutions.<br><br>
+🌱 **I'm currently learning:**  <br>React.js, React Native, and Fine-tuning LLM Models (specifically Meta llama 3.1).<br><br>
+💬 **Ask me about:**  <br>Web Development, Flutter, ML/LLM Models, Hardware Projects, and Cloud Computing.<br><br>
 ⚡ **Fun fact:**  <br>I've participated in multiple hackathons including Duke-Harvard-AI Live Global Hackathon and developed HepaScope for Liver Segmentation!
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
