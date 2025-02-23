@@ -56,4 +56,4 @@
    - [Noise Detector for Silence Zones](https://harshalmore.craft.me/lZgxzNUi93SOzQ)
 
 ---
-![](https://visitcount.itsvg.in/api?id=harshalmore31&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=harshalmore31&icon=0&color=0)](https://visitcount.itsvg.in)
