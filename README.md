@@ -2,7 +2,6 @@
 🔭 **Currently Working On:**  
 - **Generative AI**: Fine-tuning LLMs, optimizing RAG systems, and deploying AI models for real-world applications.  
 - **Web Development**: Building full-stack applications with a focus on performance and scalability.  
-- **Google Summer of Code (GSoC) 2024**: Contributing to AI and LLM-related open-source projects.  
 
 👯 **Looking to Collaborate On:**  
 - AI/ML projects, LLM fine-tuning, and RAG implementations.  
