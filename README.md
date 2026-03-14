@@ -32,7 +32,7 @@ SQL-native memory layer for LLMs and AI agents.
 - Multi-database backends (SQLite, PostgreSQL, MySQL, MongoDB, Oracle), DigitalOcean one-click deployment, Gradient AI playground
 - Authored developer documentation, API reference, and cookbook for onboarding and adoption
 
-### Swarms — Co-Author & Core Contributor
+### Swarms — Core Contributor
 
 <a href="https://github.com/kyegomez/swarms"><code>github.com/kyegomez/swarms</code></a>
 
