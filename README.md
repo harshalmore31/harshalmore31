@@ -30,7 +30,7 @@ SQL-native memory layer for LLMs and AI agents.
 
 - Independently architected & built the first two production versions of the platform
 - Multi-database backends (SQLite, PostgreSQL, MySQL, MongoDB, Oracle), DigitalOcean one-click deployment, Gradient AI playground
-- Grew an organic developer community with external contributors and inbound enterprise interest — all before a formal team existed
+- Authored developer documentation, API reference, and cookbook for onboarding and adoption
 
 ### Swarms — Co-Author & Core Contributor
 
