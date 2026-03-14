@@ -1,73 +1,81 @@
-# 💫 About Me:
-🔭 **Currently Working On:**  
-- **Generative AI**: Fine-tuning LLMs, optimizing RAG systems, and deploying AI models for real-world applications.  
-- **Web Development**: Building full-stack applications with a focus on performance and scalability.  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 
-👯 **Looking to Collaborate On:**  
-- AI/ML projects, LLM fine-tuning, and RAG implementations.  
-- Web development projects (React, Next.js, Firebase, Supabase).  
-- Open-source projects in cloud deployment, automation, and DevOps.  
+<div align="center">
 
-🌱 **Currently Learning:**  
-- Advanced fine-tuning techniques for Llama3.1 and Gemma models.  
-- Swarm AI and multi-agent LLM frameworks.  
-- Firebase and cloud-based deployment strategies.  
+# Harshal More
 
-💬 **Ask Me About:**  
-- LLM fine-tuning, RAG systems, and AI infrastructure.  
-- Web development (React.js, Firebase, Next.js).  
-- Cloud computing and DevOps (Docker, DigitalOcean, CI/CD).  
+**AI Infrastructure Engineer | Researcher | Open-Source Creator**
 
-⚡ **Fun Fact:**  
-- I built and deployed **Phoenix**, a personal AI assistant with advanced function calling!  
-- My **HepaScope project** for AI-powered liver segmentation was recognized at **Duke-Harvard-AI Live Global Hackathon**.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-harshalmore.me-0d1117?style=flat-square&labelColor=0d1117)](https://harshalmore.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshalmore31-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com/in/harshalmore31)
+[![GitHub](https://img.shields.io/badge/GitHub-harshalmore31-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/harshalmore31)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me:  
-[![Portfolio](https://img.shields.io/badge/Portfolio-harshalmore.me-blue?style=for-the-badge&logo=google-chrome)](https://harshalmore.me/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshalmore31)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshalmore31)  
+I build AI infrastructure that ships to production — my work sits at the intersection of systems engineering and research, where architecture decisions compound into products developers actually use. Previously built and led engineering on two widely-adopted open-source AI projects. Currently pursuing Electronics & Computer Science at VIT Mumbai, working toward graduate research in neural systems and brain-inspired computation.
 
 ---
 
-## 🏆 Hackathons & Achievements:
-- 🌟 **Duke-Harvard-AI Live Global Hackathon** - HepaScope for AI-powered Liver Segmentation  
-- 🚀 **KJSCE Devopia Hackathon** - Smart Home Automation System  
-- 💡 **SUSTAIN-A-THON 2024** - Indian Oil Corporation Ltd.  
-- 🔬 **Trustworthy AI Lab x GES UCLA Hackathon** - Data Clean Room Platform  
-- 🛠️ **Logithon** - Datta Meghe College of Engineering  
-- 🌐 **Flipkart Hackathon**  
+### Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Memori** — Creator & Lead Architect
+<br/><sub><a href="https://github.com/MemoriLabs/Memori">github.com/MemoriLabs/Memori</a></sub>
+<br/><sub>12,000+ stars | 60,000+ SDK downloads</sub>
+
+SQL-native memory layer for LLMs and AI agents. Independently architected and built the first two production versions. Designed multi-database backends across SQLite, PostgreSQL, MySQL, MongoDB, and Oracle. Built DigitalOcean one-click deployment, Gradient AI playground, developer documentation, and cookbook. Grew an organic developer community with external contributors, teams building on the platform, and inbound enterprise interest — all before a formal team existed.
+
+</td>
+<td width="50%" valign="top">
+
+**Swarms** — Co-Author & Core Contributor
+<br/><sub><a href="https://github.com/kyegomez/swarms">github.com/kyegomez/swarms</a></sub>
+<br/><sub>5,600+ stars</sub>
+
+Enterprise multi-agent orchestration framework. Integrated the AI Co-Scientist system and enhanced core agent utilities across vision, streaming, and memory. Improved documentation and onboarding for architecture, cloud deployment, and vector DB integration. Strengthened reliability with error handling and automated testing. Collaborated on feature development and refactoring for scalability.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects:
+### Stack
 
-### 🧠 **AI/ML & LLM Projects**
-1. **[Phoenix](https://github.com/harshalmore31/phoenix)** – AI-powered personal assistant  
-2. **[Orchnex](https://github.com/harshalmore31/orchnex)** – AI Orchestration System using Llama3.1 and Gemini  
-3. **[Reflective Journal Assistant Echo](#)** – AI-powered RAG-based journal  
-4. **[TinyLlama Local Deployment](https://chat.techive.live/)** – LLM Web App hosted on DigitalOcean  
-
-### 🌍 **Web Development**
-1. **[Google Front-end Clone](https://google-clone.techive.live/)**  
-2. **[Blackjack Game](https://blackjack.harshalmore.me/)**  
-3. **[Personal Portfolio](https://harshalmore.me/)**  
-
-### 🔧 **Hardware & IoT**
-1. **Digital Dice** – Digi-Pro Competition Winner  
-2. **[Noise Detector for Silence Zones](https://harshalmore.craft.me/lZgxzNUi93SOzQ)**  
-
----
-
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![LLM](https://img.shields.io/badge/LLM-RAG-Ff69b4?style=for-the-badge)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>Python, TypeScript, JavaScript, SQL, MATLAB</td>
+</tr>
+<tr>
+<td><b>AI / ML</b></td>
+<td>LLM Integration, RAG Systems, Multi-Agent Architectures, Memory Systems, Fine-Tuning</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>FastAPI, Node.js, PostgreSQL, MySQL, SQLite, MongoDB, Oracle</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>React, Next.js, Tailwind CSS</td>
+</tr>
+<tr>
+<td><b>Infrastructure</b></td>
+<td>Docker, DigitalOcean, Firebase, Supabase, CI/CD</td>
+</tr>
+</table>
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=harshalmore31&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshalmore31&bg_color=0d1117&color=708090&line=3b82f6&point=ffffff&area=true&hide_border=true&area_color=1e3a5f" width="95%"/>
+
+<sub>harshalmore31</sub>
+
+</div>
