@@ -1,73 +1,135 @@
-# 💫 About Me:
-🔭 **Currently Working On:**  
-- **Generative AI**: Fine-tuning LLMs, optimizing RAG systems, and deploying AI models for real-world applications.  
-- **Web Development**: Building full-stack applications with a focus on performance and scalability.  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-👯 **Looking to Collaborate On:**  
-- AI/ML projects, LLM fine-tuning, and RAG implementations.  
-- Web development projects (React, Next.js, Firebase, Supabase).  
-- Open-source projects in cloud deployment, automation, and DevOps.  
+<div align="center">
 
-🌱 **Currently Learning:**  
-- Advanced fine-tuning techniques for Llama3.1 and Gemma models.  
-- Swarm AI and multi-agent LLM frameworks.  
-- Firebase and cloud-based deployment strategies.  
+# Harshal More
 
-💬 **Ask Me About:**  
-- LLM fine-tuning, RAG systems, and AI infrastructure.  
-- Web development (React.js, Firebase, Next.js).  
-- Cloud computing and DevOps (Docker, DigitalOcean, CI/CD).  
+**AI Infrastructure Engineer | Researcher | Open-Source Contributor**
 
-⚡ **Fun Fact:**  
-- I built and deployed **Phoenix**, a personal AI assistant with advanced function calling!  
-- My **HepaScope project** for AI-powered liver segmentation was recognized at **Duke-Harvard-AI Live Global Hackathon**.  
+<br/>
 
----
+<a href="https://harshalmore.dev/">
+<img src="https://img.shields.io/badge/Portfolio-harshalmore.dev-white?style=flat-square&labelColor=white&color=black" alt="Portfolio"/>
+</a>&nbsp;
+<a href="https://linkedin.com/in/harshalmore31">
+<img src="https://img.shields.io/badge/LinkedIn-harshalmore31-white?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=white&color=black" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://github.com/harshalmore31">
+<img src="https://img.shields.io/badge/GitHub-harshalmore31-white?style=flat-square&logo=github&logoColor=black&labelColor=white&color=black" alt="GitHub"/>
+</a>
 
-## 🌐 Connect With Me:  
-[![Portfolio](https://img.shields.io/badge/Portfolio-harshalmore.me-blue?style=for-the-badge&logo=google-chrome)](https://harshalmore.me/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshalmore31)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshalmore31)  
+</div>
+
+<br/>
+
+I build AI infrastructure that ships to production — systems engineering meets research, where architecture decisions compound into products developers actually use. Previously built and led engineering on two widely-adopted open-source AI projects. Currently pursuing Electronics & Computer Science at VIT Mumbai, working toward graduate research in neural systems and brain-inspired computation.
 
 ---
 
-## 🏆 Hackathons & Achievements:
-- 🌟 **Duke-Harvard-AI Live Global Hackathon** - HepaScope for AI-powered Liver Segmentation  
-- 🚀 **KJSCE Devopia Hackathon** - Smart Home Automation System  
-- 💡 **SUSTAIN-A-THON 2024** - Indian Oil Corporation Ltd.  
-- 🔬 **Trustworthy AI Lab x GES UCLA Hackathon** - Data Clean Room Platform  
-- 🛠️ **Logithon** - Datta Meghe College of Engineering  
-- 🌐 **Flipkart Hackathon**  
+```bash
+> cat ~/work/featured.md
+```
+
+## Featured Work
+
+<br/>
+
+**Memori** — Creator & Lead Architect
+<br/>
+<a href="https://github.com/MemoriLabs/Memori"><code>github.com/MemoriLabs/Memori</code></a>
+
+SQL-native memory layer for LLMs and AI agents.
+
+- Independently architected & built the first two production versions of the platform
+- Designed multi-database backend system — SQLite, PostgreSQL, MySQL, MongoDB, Oracle
+- Built DigitalOcean one-click droplet for zero-config deployment
+- Created Gradient AI playground for developers to test without local setup
+- Authored developer documentation, API reference, and cookbook
+- Grew organic community — external contributors, teams building on it, inbound enterprise interest
+- All shipped before a formal team existed
+
+<br/>
+
+**Swarms** — Co-Author & Core Contributor
+<br/>
+<a href="https://github.com/kyegomez/swarms"><code>github.com/kyegomez/swarms</code></a>
+
+Enterprise multi-agent orchestration framework.
+
+- Integrated AI Co-Scientist system into the framework core
+- Enhanced agent utilities — vision processing, streaming responses, persistent memory
+- Authored architecture guides, cloud deployment docs, and vector DB integration walkthroughs
+- Built automated test suites and error handling infrastructure
+- Refactored codebase for horizontal scalability and multi-modal execution
 
 ---
 
-## 🚀 Featured Projects:
+```bash
+> ls -la ~/projects/
+```
 
-### 🧠 **AI/ML & LLM Projects**
-1. **[Phoenix](https://github.com/harshalmore31/phoenix)** – AI-powered personal assistant  
-2. **[Orchnex](https://github.com/harshalmore31/orchnex)** – AI Orchestration System using Llama3.1 and Gemini  
-3. **[Reflective Journal Assistant Echo](#)** – AI-powered RAG-based journal  
-4. **[TinyLlama Local Deployment](https://chat.techive.live/)** – LLM Web App hosted on DigitalOcean  
+## Projects
 
-### 🌍 **Web Development**
-1. **[Google Front-end Clone](https://google-clone.techive.live/)**  
-2. **[Blackjack Game](https://blackjack.harshalmore.me/)**  
-3. **[Personal Portfolio](https://harshalmore.me/)**  
+<br/>
 
-### 🔧 **Hardware & IoT**
-1. **Digital Dice** – Digi-Pro Competition Winner  
-2. **[Noise Detector for Silence Zones](https://harshalmore.craft.me/lZgxzNUi93SOzQ)**  
+**Naval-Gemma** — Fine-tuned LLM for philosophical Q&A
+<br/>
+<a href="https://huggingface.co/harshalmore31/naval_gemma-3"><code>HuggingFace</code></a>&nbsp;·&nbsp;<a href="https://ollama.com/harshalmore31/naval-gemma"><code>Ollama</code></a>
+
+- Fine-tuned Google DeepMind's Gemma-3B on a custom-built dataset
+- Source material: The Almanack of Naval Ravikant, scraped via custom PDF pipeline
+- Quantized to Q8_0 using llama.cpp for efficient local inference
+- Deployed fully offline via Ollama — private, fast, no API dependency
+- Training pipeline built with Unsloth for memory-efficient fine-tuning
+
+<br/>
+
+**Echo** — AI Journal with Adaptive RAG
+<br/>
+<a href="https://github.com/harshalmore31/echo"><code>GitHub</code></a>
+
+- Local-first LLM journaling system with RAG + feedback loops
+- Conversations summarized, embedded, and made searchable over time
+- Context evolves adaptively — the system learns from interaction history
+- Built with LangChain, Qdrant, bge-m3, and Whisper
+
+<br/>
+
+**Post-Supa-Bridge** — Real-time Web Integration
+<br/>
+<a href="https://github.com/harshalmore31/post-supa-bridge"><code>GitHub</code></a>
+
+- Real-time inventory sync — sub-500ms avg data load, 10-20ms real-time sync
+- Performance benchmarks: LCP 0.75s, CLS 0.01, INP 80ms
+- PostgreSQL as source of truth, Supabase for real-time pub/sub, Redis for instant stats
+- Built with Flask, JavaScript, WebSockets, Nuxt.js
 
 ---
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![LLM](https://img.shields.io/badge/LLM-RAG-Ff69b4?style=for-the-badge)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+```bash
+> echo $TECH_STACK
+```
+
+## Tech Stack
+
+<div align="center">
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,supabase&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,firebase,cloudflare,git,github&theme=dark)](https://skillicons.dev)
+
+<br/>
+</div>
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=harshalmore31&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+Feel free to explore my projects or reach out if you'd like to collaborate!
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=80&section=footer&text=&fontSize=0" width="100%"/>
