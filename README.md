@@ -2,7 +2,7 @@
 
 AI Infrastructure Engineer, Researcher, and Open-Source Contributor. I build AI systems that ship to production — where architecture decisions compound into products developers actually use. Previously built and led engineering on two widely-adopted open-source AI projects.
 
-Currently pursuing Electronics & Computer Science at VIT Mumbai, working toward graduate research in neural systems and brain-inspired computation.
+Currently pursuing Electronics & Computer Science at VIT Mumbai, working toward research in neural systems and brain-inspired computation.
 
 <a href="https://harshalmore.dev/">
 <img src="https://img.shields.io/badge/Portfolio-harshalmore.dev-white?style=flat-square&labelColor=white&color=black" alt="Portfolio"/>
