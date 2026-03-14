@@ -29,12 +29,8 @@ Currently pursuing Electronics & Computer Science at VIT Mumbai, working toward 
 SQL-native memory layer for LLMs and AI agents.
 
 - Independently architected & built the first two production versions of the platform
-- Designed multi-database backend system — SQLite, PostgreSQL, MySQL, MongoDB, Oracle
-- Built DigitalOcean one-click droplet for zero-config deployment
-- Created Gradient AI playground for developers to test without local setup
-- Authored developer documentation, API reference, and cookbook
-- Grew organic community — external contributors, teams building on it, inbound enterprise interest
-- All shipped before a formal team existed
+- Multi-database backends (SQLite, PostgreSQL, MySQL, MongoDB, Oracle), DigitalOcean one-click deployment, Gradient AI playground
+- Grew an organic developer community with external contributors and inbound enterprise interest — all before a formal team existed
 
 ### Swarms — Co-Author & Core Contributor
 
@@ -42,11 +38,9 @@ SQL-native memory layer for LLMs and AI agents.
 
 Enterprise multi-agent orchestration framework.
 
-- Integrated AI Co-Scientist system into the framework core
-- Enhanced agent utilities — vision processing, streaming responses, persistent memory
+- Integrated AI Co-Scientist system and enhanced agent utilities — vision, streaming, memory
 - Authored architecture guides, cloud deployment docs, and vector DB integration walkthroughs
-- Built automated test suites and error handling infrastructure
-- Refactored codebase for horizontal scalability and multi-modal execution
+- Built automated test suites, error handling infrastructure, and refactored for scalability
 
 ---
 
@@ -60,29 +54,25 @@ Enterprise multi-agent orchestration framework.
 
 <a href="https://huggingface.co/harshalmore31/naval_gemma-3"><code>HuggingFace</code></a>&nbsp;·&nbsp;<a href="https://ollama.com/harshalmore31/naval-gemma"><code>Ollama</code></a>
 
-- Fine-tuned Google DeepMind's Gemma-3B on a custom-built dataset
-- Source material: The Almanack of Naval Ravikant, scraped via custom PDF pipeline
-- Quantized to Q8_0 using llama.cpp for efficient local inference
-- Deployed fully offline via Ollama — private, fast, no API dependency
-- Training pipeline built with Unsloth for memory-efficient fine-tuning
+- Fine-tuned Gemma-3B on a custom dataset from The Almanack of Naval Ravikant
+- Quantized (Q8_0) and deployed fully offline via Ollama for private inference
+- Built with Unsloth, llama.cpp, and a custom PDF scraping pipeline
 
 ### Echo — AI Journal with Adaptive RAG
 
 <a href="https://github.com/harshalmore31/echo"><code>GitHub</code></a>
 
-- Local-first LLM journaling system with RAG + feedback loops
-- Conversations summarized, embedded, and made searchable over time
-- Context evolves adaptively — the system learns from interaction history
-- Built with LangChain, Qdrant, bge-m3, and Whisper
+- Local LLM journaling system with RAG + feedback loops for evolving context
+- Chat history summarized, embedded, and made searchable via Qdrant
+- Built with LangChain, bge-m3, and Whisper
 
 ### Post-Supa-Bridge — Real-time Web Integration
 
 <a href="https://github.com/harshalmore31/post-supa-bridge"><code>GitHub</code></a>
 
-- Real-time inventory sync — sub-500ms avg data load, 10-20ms real-time sync
-- Performance benchmarks: LCP 0.75s, CLS 0.01, INP 80ms
+- Real-time inventory system with sub-500ms avg data load and 10-20ms sync
+- Performance optimized — LCP 0.75s, CLS 0.01, INP 80ms
 - PostgreSQL as source of truth, Supabase for real-time pub/sub, Redis for instant stats
-- Built with Flask, JavaScript, WebSockets, Nuxt.js
 
 ---
 
