@@ -1,4 +1,4 @@
-## About
+# About
 
 AI Infrastructure Engineer, Researcher, and Open-Source Contributor. I build AI systems that ship to production — where architecture decisions compound into products developers actually use. Previously built and led engineering on two widely-adopted open-source AI projects.
 
