@@ -32,7 +32,7 @@ SQL-native memory layer for LLMs and AI agents.
 - Multi-database backends (SQLite, PostgreSQL, MySQL, MongoDB, Oracle), DigitalOcean one-click deployment, Gradient AI playground
 - Authored developer documentation, API reference, and cookbook for onboarding and adoption
 
-### Swarms — Core Contributor
+### Swarms — Co-Author & Core Contributor
 
 <a href="https://github.com/kyegomez/swarms"><code>github.com/kyegomez/swarms</code></a>
 
@@ -73,6 +73,22 @@ Enterprise multi-agent orchestration framework.
 - Real-time inventory system with sub-500ms avg data load and 10-20ms sync
 - Performance optimized — LCP 0.75s, CLS 0.01, INP 80ms
 - PostgreSQL as source of truth, Supabase for real-time pub/sub, Redis for instant stats
+
+---
+
+```bash
+> git log --author="harshalmore31" --oneline
+```
+
+## Open Source Contributions
+
+### OpenAI gpt-oss
+
+<a href="https://github.com/openai/gpt-oss/pull/89"><code>Pull Request #89</code></a>
+
+- Contributed a Gradio-based chat interface with function-calling support and browser search for real-time context
+- Matched Streamlit version functionality with native GPT-OSS response handling
+- Lowered the barrier for developers to experiment with OpenAI's open-weight models via Hugging Face/Gradio ecosystem
 
 ---
 
