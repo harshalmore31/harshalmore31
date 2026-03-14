@@ -1,4 +1,4 @@
-### About
+## About
 
 AI Infrastructure Engineer, Researcher, and Open-Source Contributor. I build AI systems that ship to production — where architecture decisions compound into products developers actually use. Previously built and led engineering on two widely-adopted open-source AI projects.
 
@@ -20,10 +20,10 @@ Currently pursuing Electronics & Computer Science at VIT Mumbai, working toward 
 > cat ~/work/featured.md
 ```
 
-### Featured Work
+## Featured Work
 
-**Memori** — Creator & Lead Architect
-<br/>
+### Memori — Creator & Lead Architect
+
 <a href="https://github.com/MemoriLabs/Memori"><code>github.com/MemoriLabs/Memori</code></a>
 
 SQL-native memory layer for LLMs and AI agents.
@@ -36,10 +36,8 @@ SQL-native memory layer for LLMs and AI agents.
 - Grew organic community — external contributors, teams building on it, inbound enterprise interest
 - All shipped before a formal team existed
 
-<br/>
+### Swarms — Co-Author & Core Contributor
 
-**Swarms** — Co-Author & Core Contributor
-<br/>
 <a href="https://github.com/kyegomez/swarms"><code>github.com/kyegomez/swarms</code></a>
 
 Enterprise multi-agent orchestration framework.
@@ -56,10 +54,10 @@ Enterprise multi-agent orchestration framework.
 > ls -la ~/projects/
 ```
 
-### Projects
+## Projects
 
-**Naval-Gemma** — Fine-tuned LLM for philosophical Q&A
-<br/>
+### Naval-Gemma — Fine-tuned LLM for philosophical Q&A
+
 <a href="https://huggingface.co/harshalmore31/naval_gemma-3"><code>HuggingFace</code></a>&nbsp;·&nbsp;<a href="https://ollama.com/harshalmore31/naval-gemma"><code>Ollama</code></a>
 
 - Fine-tuned Google DeepMind's Gemma-3B on a custom-built dataset
@@ -68,10 +66,8 @@ Enterprise multi-agent orchestration framework.
 - Deployed fully offline via Ollama — private, fast, no API dependency
 - Training pipeline built with Unsloth for memory-efficient fine-tuning
 
-<br/>
+### Echo — AI Journal with Adaptive RAG
 
-**Echo** — AI Journal with Adaptive RAG
-<br/>
 <a href="https://github.com/harshalmore31/echo"><code>GitHub</code></a>
 
 - Local-first LLM journaling system with RAG + feedback loops
@@ -79,10 +75,8 @@ Enterprise multi-agent orchestration framework.
 - Context evolves adaptively — the system learns from interaction history
 - Built with LangChain, Qdrant, bge-m3, and Whisper
 
-<br/>
+### Post-Supa-Bridge — Real-time Web Integration
 
-**Post-Supa-Bridge** — Real-time Web Integration
-<br/>
 <a href="https://github.com/harshalmore31/post-supa-bridge"><code>GitHub</code></a>
 
 - Real-time inventory sync — sub-500ms avg data load, 10-20ms real-time sync
@@ -96,7 +90,7 @@ Enterprise multi-agent orchestration framework.
 > echo $TECH_STACK
 ```
 
-### Tech Stack
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java&theme=dark)](https://skillicons.dev)
 
