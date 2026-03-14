@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://harshalmore.dev/">
-<img src="https://img.shields.io/badge/Portfolio-harshalmore.me-white?style=flat-square&labelColor=white&color=black" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-harshalmore.dev-white?style=flat-square&labelColor=white&color=black" alt="Portfolio"/>
 </a>&nbsp;
 <a href="https://linkedin.com/in/harshalmore31">
 <img src="https://img.shields.io/badge/LinkedIn-harshalmore31-white?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=white&color=black" alt="LinkedIn"/>
