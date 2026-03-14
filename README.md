@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://harshalmore.me/">
+<a href="https://harshalmore.dev/">
 <img src="https://img.shields.io/badge/Portfolio-harshalmore.me-white?style=flat-square&labelColor=white&color=black" alt="Portfolio"/>
 </a>&nbsp;
 <a href="https://linkedin.com/in/harshalmore31">
