@@ -1,12 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=120&section=header&text=&fontSize=0" width="100%"/>
+### About
 
-<div align="center">
+AI Infrastructure Engineer, Researcher, and Open-Source Contributor. I build AI systems that ship to production — where architecture decisions compound into products developers actually use. Previously built and led engineering on two widely-adopted open-source AI projects.
 
-# Harshal More
-
-**AI Infrastructure Engineer | Researcher | Open-Source Contributor**
-
-<br/>
+Currently pursuing Electronics & Computer Science at VIT Mumbai, working toward graduate research in neural systems and brain-inspired computation.
 
 <a href="https://harshalmore.dev/">
 <img src="https://img.shields.io/badge/Portfolio-harshalmore.dev-white?style=flat-square&labelColor=white&color=black" alt="Portfolio"/>
@@ -18,21 +14,13 @@
 <img src="https://img.shields.io/badge/GitHub-harshalmore31-white?style=flat-square&logo=github&logoColor=black&labelColor=white&color=black" alt="GitHub"/>
 </a>
 
-</div>
-
-<br/>
-
-I build AI infrastructure that ships to production — systems engineering meets research, where architecture decisions compound into products developers actually use. Previously built and led engineering on two widely-adopted open-source AI projects. Currently pursuing Electronics & Computer Science at VIT Mumbai, working toward graduate research in neural systems and brain-inspired computation.
-
 ---
 
 ```bash
 > cat ~/work/featured.md
 ```
 
-## Featured Work
-
-<br/>
+### Featured Work
 
 **Memori** — Creator & Lead Architect
 <br/>
@@ -68,9 +56,7 @@ Enterprise multi-agent orchestration framework.
 > ls -la ~/projects/
 ```
 
-## Projects
-
-<br/>
+### Projects
 
 **Naval-Gemma** — Fine-tuned LLM for philosophical Q&A
 <br/>
@@ -110,10 +96,7 @@ Enterprise multi-agent orchestration framework.
 > echo $TECH_STACK
 ```
 
-## Tech Stack
-
-<div align="center">
-<br/>
+### Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java&theme=dark)](https://skillicons.dev)
 
@@ -121,15 +104,4 @@ Enterprise multi-agent orchestration framework.
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,supabase&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,firebase,cloudflare,git,github&theme=dark)](https://skillicons.dev)
-
-<br/>
-</div>
-
----
-
-<p align="center">
-Feel free to explore my projects or reach out if you'd like to collaborate!
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=80&section=footer&text=&fontSize=0" width="100%"/>
+[![My Skills](https://skillicons.dev/icons?i=docker,digitalocean,firebase,cloudflare,git,github&theme=dark)](https://skillicons.dev)
